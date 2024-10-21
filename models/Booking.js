@@ -22,6 +22,8 @@ const Booking = db.define('Booking', {
         type: DataTypes.TIME,
         allowNull: false
     }
+}, {
+    timestamps: false
 });
 
 module.exports = Booking;
