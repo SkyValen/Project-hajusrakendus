@@ -6,4 +6,5 @@
     Просмотр доступности аудиторий.
     Оповещения о подтверждении бронирований или изменениях.
 3) Sequelize, express, bcrypt, jsonwebtoken, dotenv, mysql2
-4)![thumbnail_image](https://github.com/user-attachments/assets/a33b1ec6-ae0f-4e60-a25b-84689b633266)
+4)
+![image](https://github.com/user-attachments/assets/7e929aaf-c1c5-4773-bc37-6fd2ad4a8b0c)
